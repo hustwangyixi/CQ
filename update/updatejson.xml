@@ -1,4 +1,4 @@
 {
-	"version": "3.7",
-	"change":"1. fixed\r\n"
+	"version": "3.5",
+	"change":"1. Fixed the fail to dispatch CR issue\r\n"
 }
